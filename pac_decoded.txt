@@ -49,6 +49,7 @@ cdninstagram.com
 
 !!-- Articles
 ||medium.com
+||refactoring.guru
 
 !!-- GPT
 ||chatgpt.com
@@ -70,7 +71,6 @@ cdninstagram.com
 ||youtube.com
 ||youtu.be
 
-
 !!-- Notion
 ||notion.so
 ||notion.com
@@ -84,4 +84,8 @@ cdninstagram.com
 ||youtrack.kts.studio
 ||cloudfront.net
 ||jb.gg
+
+!!-- Mongo
+||mongodb.com
+
 !---------------------EOF-----------------------
