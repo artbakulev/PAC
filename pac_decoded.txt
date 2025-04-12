@@ -51,9 +51,15 @@ cdninstagram.com
 ||medium.com
 ||refactoring.guru
 
-!!-- GPT
+!!-- OpenAI
 ||chatgpt.com
 ||openai.com
+
+!!-- Claude
+||claude.ai
+
+!!-- MongoDB
+||mongodb.com
 
 !!-- Github Copilot
 ||githubusercontent.com
