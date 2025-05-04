@@ -57,6 +57,7 @@ cdninstagram.com
 
 !!-- Claude
 ||claude.ai
+||anthropic.com
 
 !!-- MongoDB
 ||mongodb.com
