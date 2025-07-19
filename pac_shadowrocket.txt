@@ -64,3 +64,4 @@ DOMAIN-SUFFIX,youtrack.kts.studio,PROXY
 DOMAIN-SUFFIX,cloudfront.net,PROXY
 DOMAIN-SUFFIX,jb.gg,PROXY
 DOMAIN-SUFFIX,mongodb.com,PROXY
+DOMAIN-SUFFIX,sentry.pulse.kts.studio,PROXY

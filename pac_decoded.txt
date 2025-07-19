@@ -94,4 +94,7 @@ cdninstagram.com
 !!-- Mongo
 ||mongodb.com
 
+!!-- Hetzner
+||sentry.pulse.kts.studio
+
 !---------------------EOF-----------------------
