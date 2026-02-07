@@ -2,7 +2,9 @@
 
 set -e
 
-./to_base64
-python to_shadowrocket.py
+cd "$(dirname "$0")"
 
-echo "Конвертация завершена: ${OUTPUT}"
+./scripts/to_base64
+python scripts/to_shadowrocket.py
+
+echo "Конвертация завершена: pac.txt, pac_shadowrocket.txt"

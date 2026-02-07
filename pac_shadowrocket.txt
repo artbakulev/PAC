@@ -44,6 +44,7 @@ DOMAIN-SUFFIX,refactoring.guru,PROXY
 DOMAIN-SUFFIX,chatgpt.com,PROXY
 DOMAIN-SUFFIX,openai.com,PROXY
 DOMAIN-SUFFIX,claude.ai,PROXY
+DOMAIN-SUFFIX,claude.com,PROXY
 DOMAIN-SUFFIX,anthropic.com,PROXY
 DOMAIN-SUFFIX,mongodb.com,PROXY
 DOMAIN-SUFFIX,githubusercontent.com,PROXY

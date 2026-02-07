@@ -1,0 +1,2 @@
+#!/bin/bash
+base64 -b 64 -i pac_decoded.txt -o pac.txt
