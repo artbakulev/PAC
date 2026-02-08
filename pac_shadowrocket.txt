@@ -47,6 +47,7 @@ DOMAIN-SUFFIX,claude.ai,PROXY
 DOMAIN-SUFFIX,claude.com,PROXY
 DOMAIN-SUFFIX,anthropic.com,PROXY
 DOMAIN-SUFFIX,console.anthropic.com,PROXY
+DOMAIN-SUFFIX,gemini.google.com,PROXY
 DOMAIN-SUFFIX,mongodb.com,PROXY
 DOMAIN-SUFFIX,githubusercontent.com,PROXY
 DOMAIN-SUFFIX,githubcopilot.com,PROXY

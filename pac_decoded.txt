@@ -61,6 +61,9 @@ cdninstagram.com
 ||anthropic.com
 ||console.anthropic.com
 
+!!-- Google Gemini
+||gemini.google.com
+
 !!-- MongoDB
 ||mongodb.com
 
